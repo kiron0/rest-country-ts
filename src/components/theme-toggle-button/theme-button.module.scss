@@ -1,0 +1,19 @@
+.theme_toggle {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  font-weight: 800;
+  &:hover {
+    background-color: inherit;
+  }
+  span {
+    margin: 0.5rem;
+  }
+  @media screen and (max-width: 375px) {
+    max-width: 100px;
+    font-size: 0.5rem;
+    span {
+      margin: 0.25rem;
+    }
+  }
+}
