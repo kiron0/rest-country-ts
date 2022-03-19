@@ -10,7 +10,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://github.com/dulranga/REST-Countries)
-- Live Site URL: [Click Here](https://rest-countries-silk.vercel.app/)
+- Solution URL: [Click Here](https://github.com/kiron0/rest-country-ts)
+- Live Site URL: [Click Here](https://rest-country-ts.netlify.app/)
 
 ## My process
 
@@ -42,9 +41,3 @@ Users should be able to:
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-
-## Author
-
-- Website - [dulranga.ml](https://www.dulranga.ml)
-- Frontend Mentor - [@dulranga](https://www.frontendmentor.io/profile/dulranga)
-- Twitter - [@dulrangaD](https://www.twitter.com/dulrangaD)
