@@ -42,12 +42,11 @@ const Home: FC<Props> = ({ initialCountries }) => {
     <main>
       <Head>
         <title>
-          Frontend Mentor - REST Countries API with color theme switcher
-          solution
+          Rest Countries With TypeScript
         </title>
         <meta
           name="description"
-          content="REST Countries API with color theme switcher solution by dulranga"
+          content="REST Countries API with color theme switcher solution"
         />
       </Head>
 
