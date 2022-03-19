@@ -1,0 +1,21 @@
+.author{
+    text-decoration: none;
+    font-weight: 900;
+    color: grey;
+    font-size: 1.1rem;
+}
+
+.author:hover{
+    color: #444;
+}
+
+@media screen and (max-width: 490px) {
+
+    .author{
+        font-size: 1rem;
+    }
+
+    .footer p{
+        font-size: .9rem;
+    }
+}
